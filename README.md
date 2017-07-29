@@ -2,4 +2,4 @@
 
 ### This is a test project for the rules gem.
 
-Please see rules.gem documentation for information.
+Please see rulers.gem documentation for information.
